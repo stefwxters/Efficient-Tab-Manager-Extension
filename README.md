@@ -9,6 +9,10 @@ A powerful Chrome extension to manage, search, and organize your browser tabs.
 - ⚡ Suspend inactive tabs to free memory
 - 📊 Real-time tab statistics
 
+## 🤝 Contributing
+Contributions are welcome!  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ## Installation
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
